@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DocuRAG — AI-Powered Document Intelligence
 
 **DocuRAG** is a document question-answering application built around **Retrieval-Augmented Generation (RAG)**. It helps users upload documents, retrieve relevant information, and ask questions grounded in the uploaded content. The project includes a web interface, a FastAPI backend, document-processing and search services, and separate user/admin workflows.
@@ -585,4 +584,3 @@ The documentation can be used to view and test the available API endpoints.
 **Event:** Cognizant NPN Hackathon
 
 **Project:** DocuRAG
->>>>>>> c34364b (Initial commit)
